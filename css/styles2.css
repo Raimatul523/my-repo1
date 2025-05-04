@@ -1,0 +1,25 @@
+.R1{
+    background-color: aqua;
+}
+.R2{
+    background-color: bisque;
+}
+.R3{
+    background-color:rosybrown ;
+}
+a{
+    text-decoration: none;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+p{  
+    border: solid peachpuff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 15px;
+}
+#lorem{
+    background-color: blueviolet;
+}
